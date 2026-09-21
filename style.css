@@ -1,0 +1,44 @@
+body {
+    background-color: lightgray;
+}
+
+header {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+}
+
+article {
+    background-color: lightblue;
+    padding: 15px;
+    margin: 10px;
+}
+
+aside {
+    background-color: lavender;
+    padding: 20px;
+}
+
+footer {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
